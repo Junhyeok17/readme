@@ -73,7 +73,7 @@
 ## 5. Disallowed Raw HTML
   확장된 문법에선 tagfilter가 가능하다...?
   
-  <title> <style> <em>
+  <strong> <title> <style> <em>
   
   <blockquote>
     <xmp> is disallowed.  <XMP> is also disallowed.
